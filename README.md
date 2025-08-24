@@ -37,6 +37,9 @@
 📊 My Dev Dashboard
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raushankr-30&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="stats" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=raushankr-30&theme=transparent&hide_border=true" alt="streak" height="170"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushankr-30&theme=react-dark&hide_border=true&area=true" alt="activity graph" /> </p>
 
+![3D Profile Stats](https://github.com/raushankr-30/raushankr-30/blob/main/profile-3d-contrib/profile-night-green.svg)
+
+
 🎵 Now Playing
 <p align="center"> <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=00F5D4&bar_color_cover=true" /> </a> </p>
 
